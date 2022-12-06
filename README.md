@@ -3,6 +3,8 @@ This repository contains our code and presentation for comparing the effectivene
 
 Authors: Ankit Kumar Misra and Dhruva Dhingra
 
+This work is based on the paper "[Straggler Mitigation in Distributed Matrix Multiplication: Fundamental Limits and Optimal Coding](https://ieeexplore.ieee.org/abstract/document/8949560)" by Yu, Maddah-Ali, and Avestimehr. We implemented their ideas and reviewed their methods, discovering two flaws in the polynomial code design, as explained in our presentation.
+
 Organization:
 1. `src/` contains:
 
